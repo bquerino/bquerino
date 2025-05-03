@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Bruno Querino** — `bquerino`
 
-Software Engineer with **20 + years** of experience, passionate about **cloud computing**, **distributed architectures**, and—lately—**game development** with Unreal Engine.  
-I worked with the **PIX QR Code** platform for the largest financial institution in Latin America, led a global **Single Sign-On** rollout for a Swedish manufacturing giant, and currently evolve a **cash-management** platform for a major Brazilian bank.
+Software Engineer with 20 + years of experience, passionate about cloud computing, distributed architectures, and—lately—game development with Unreal Engine.
+I have delivered mission-critical solutions across the financial, manufacturing, and healthcare industries, from global single-sign-on solutions to enterprise cash management systems.
 
 ---
 
@@ -9,13 +9,23 @@ I worked with the **PIX QR Code** platform for the largest financial institution
 
 | Languages | Frameworks & Tools | Cloud & DevOps | Extras |
 |-----------|-------------------|----------------|--------|
-| Java 11-21 · Go 1.23 · C# /.NET | Spring Boot · Quarkus · Fiber | AWS (ECS, Lambda, DynamoDB, S3, KMS) · Terraform · Docker · Kubernetes | Kafka · Redis · MySQL/Aurora · OpenTelemetry · Unreal Engine |
+| Java 11-21 · Go 1.23 · C# /.NET | Spring Boot · Quarkus · Fiber· Gin | AWS (ECS, Lambda, DynamoDB, S3, KMS) · Terraform · Docker · Kubernetes | Kafka · Redis · MySQL/Aurora · OpenTelemetry · Unreal Engine |
 
 * **Architecture**: DDD, Clean Architecture, microservices, event-driven design  
 * **Observability**: structured logging (`slog`), distributed tracing, metrics with Prometheus/DataDog  
 * **Security**: TLS, mTLS, OAuth2/OIDC, AWS KMS/HSM
 * **Databases**: key-value stores, sharding, SQL tuning for billion-row datasets  
 * **Game Dev**: *WIP* :art:
+
+---
+
+## 🌱 Studies
+
+Currently germinating skills in:
+
+- Kubernetes
+- Kafka
+- Datadog
 
 ---
 
